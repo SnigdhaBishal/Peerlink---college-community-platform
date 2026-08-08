@@ -1,0 +1,6 @@
+{
+  "name": "PeerLink",
+  "description": "Connected campus platform with Feed, Hub, Vibe peer discovery, AI Study Chat, and Notes Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
